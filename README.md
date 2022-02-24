@@ -1,0 +1,2 @@
+# South_african_languages_NLP_classification
+Classifying words into various south African languages
